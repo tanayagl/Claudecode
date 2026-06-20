@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest presentation --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\" --yes)",
+      "WebFetch(domain:vippipes.com)",
+      "mcp__claude_ai_Google_Drive__search_files"
+    ]
+  }
+}
